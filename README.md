@@ -1,2 +1,2 @@
-# TIME-HTML-CSS-JS
-Responsive time
+# TIME
+Responsive time using -HTML-CSS-JS
